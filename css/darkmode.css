@@ -1,0 +1,171 @@
+/* Dark theme */
+
+header .theme .gg-sun {
+    display: none;
+}
+
+header .theme .gg-moon {
+    display: block;
+}
+
+.dark body {
+    background: rgba(34, 34, 34, 1);
+}
+
+.dark header {
+    background-color: #151515;
+}
+
+.dark header .theme .gg-moon {
+    display: none;
+}
+
+.dark .navbar-nav .nav-item.nav-item.active .nav-link {
+    color: #189A46;
+}
+
+.dark .navbar-nav .nav-item.nav-item .nav-link {
+    color: #afafaf;
+}
+
+.dark .theme .gg-sun {
+    color: #ffffff;
+    display: block;
+}
+
+.dark .about-us {
+    background: #151515;
+}
+
+.dark .about-us .h-title {
+    color: #ddd;
+}
+
+.dark .about-us .read {
+    color: #ddd;
+}
+
+.dark .carousel .h-title {
+    color: #ddd;
+}
+
+.dark .carousel .read {
+    color: #ddd;
+}
+
+.dark .features {
+    background-color: rgba(34, 34, 34, 1);
+}
+
+.dark .features .features-item {
+    background-color: rgba(21, 21, 21, 1);
+}
+
+.dark .features .features-item:hover {
+    background: #222222;
+}
+
+.dark .features .features-item .h-title a:hover {
+    color: #189A46;
+}
+
+.dark .features .features-item .h-title a {
+    color: #ddd;
+}
+
+.dark .features .features-item .read {
+    color: #ddd;
+}
+
+.dark .choose {
+    background: #151515;
+}
+
+.dark .choose .choose-text .h-title {
+    color: #ddd;
+}
+
+.dark .choose .choose-text li {
+    color: #ddd;
+}
+
+.dark .choose .choose-text i {
+    color: #189A46;
+    background: #222222;
+}
+
+.dark .hny-title {
+    color: #ddd;
+}
+
+
+/* pricing */
+
+.dark #pricing {
+    background: rgba(34, 34, 34, 1);
+}
+
+.dark #pricing .pricing-gd-left {
+    background: #151515;
+}
+
+.dark #pricing .pricing-gd-left .one-light {
+    color: #ddd;
+}
+
+.dark #pricing .pricing-gd-left p {
+    color: #afafaf;
+}
+
+
+/* end pricing */
+
+
+/* video about */
+
+.dark #about {
+    background-color: #151515;
+}
+
+.dark #about p {
+    color: #afafaf;
+}
+
+
+/* end video about */
+
+
+/* Clients */
+
+.dark #clients {
+    background-color: #222222;
+}
+
+.dark #clients .testimonial {
+    background-color: #151515;
+}
+
+.dark #clients .testimonial h3 {
+    color: #ddd;
+}
+
+.dark #clients .item p {
+    color: #afafaf;
+}
+
+.dark .w3l-clients .indentity {
+    color: #777;
+}
+
+
+/* End Clients */
+
+
+/* Bottom */
+
+.dark .bottom {
+    background-color: #151515;
+}
+
+
+/* End Bottom */
